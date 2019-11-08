@@ -1,0 +1,9 @@
+#server:
+#  port: 8888
+#  servlet:
+#    context-path: /java0708
+
+#web.upload-path=E:/picture/
+#spring.mvc.static-path-pattern=/**
+#spring.resources.static-locations=classpath:/META-INF/resources,classpath:/resources/,classpath:/static/,classpath:/public/
+
